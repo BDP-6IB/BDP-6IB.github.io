@@ -27,8 +27,6 @@ In hardware leer je hoe een computer in elkaar zit, je zal leren hoe je voor een
 Over het algemeen leer je een heel brede basis die later van pas zal komen, en waarmee je nog in elke richting uit kunt.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.benedictuspoortInformaticaBeheer.be" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 theme: minima
