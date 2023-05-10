@@ -5,6 +5,7 @@ permalink: /contact/
 ---
 
 Adres: Hundelgemsesteenweg 93, 9050 Gent
+
 Telefoon: 09 231 23 48
 
 Binnen onze school werken wij met een levensregel gebaseerd op de spiritualiteit van Benedictus. Deze levensregel is een bron die zich richt op de groei van elk individu in het dagelijkse leven.
