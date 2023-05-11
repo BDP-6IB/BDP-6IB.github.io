@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Contact
+title: Opstelling
 permalink: /contact/
 ---
+
+
+<h1> Samenwerking </h1>
 
