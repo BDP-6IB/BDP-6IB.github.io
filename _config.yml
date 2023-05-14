@@ -18,9 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Benedictuspoort Informatica Beheer
+title: Benedictuspoort Informaticabeheer
 description: >- # this means to ignore newlines until "baseurl:"
-
+Informaticabeheer is een richting waarin je een uitgebrijde kennis krijgt over software en hardware.
+Je leert in software programmeren in C#, html, CSS, JS, en gebruikt en leert over nog vele anderen.
+In hardware leer je hoe een computer in elkaar zit, je zal leren hoe je voor een server van bijvoorbeeld een bedrijf kan zorgen.
+Over het algemeen leer je een heel brede basis die later van pas zal komen, en waarmee je nog in elke richting uit kunt.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.benedictuspoortInformaticaBeheer.be" # the base hostname & protocol for your site, e.g. http://example.com
 
