@@ -4,7 +4,7 @@ title: Informatica Beheer
 permalink: /InformaticaBeheer/
 ---
 
-Informaticabeheer is een richting waarin je een uitgebrijde kennis krijgt over software en hardware.
-Je leert in software programmeren in C#, html, CSS, JS, en gebruikt en leert over nog vele anderen.
-In hardware leer je hoe een computer in elkaar zit, je zal leren hoe je voor een server van bijvoorbeeld een bedrijf kan zorgen.
-Over het algemeen leer je een heel brede basis die later van pas zal komen, en waarmee je nog in elke richting uit kunt.
+Informaticabeheer is een richting waarin je een uitgebreide kennis krijgt over software & hardware.
+In software leer je voornamelijk programmeren in bepaalde talen, namelijk: C#, html, CSS, JS en kan de optie krijgen om nog wat talen bij te leren.
+In hardware leer je o.a. hoe een computer in elkaar zit.
+Over het algemeen leer je een hele brede basis die later van pas zal komen, en waarmee je nog in elke richting uit kunt.
