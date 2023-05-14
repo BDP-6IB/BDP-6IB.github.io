@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Informatica Beheer
+title: Informaticabeheer
 permalink: /InformaticaBeheer/
 ---
 
