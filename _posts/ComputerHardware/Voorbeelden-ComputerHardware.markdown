@@ -1,6 +1,6 @@
 ---
 layout: layout-post
 title:  "Voorbeelden ComputerHardware"
-permalink: /VoorbeeldenComputerhardware/
-tag: HW
+permalink: /Voorbeelden/
+category: HW
 ---

@@ -1,6 +1,6 @@
 ---
 layout: layout-post
 title:  "Voorbeelden Ondersteuning Organisatie"
-permalink: /VoorbeeldenOndersteuningorganisatie/
-tag: HLP
+permalink: /Voorbeelden/
+category: HLP
 ---

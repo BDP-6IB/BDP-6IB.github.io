@@ -1,6 +1,6 @@
 ---
 layout: layout-post
 title:  "Voorbeelden Databanken"
-permalink: /VoorbeeldenDatabanken/
-tag: DB
+permalink: /Voorbeelden/
+category: DB
 ---

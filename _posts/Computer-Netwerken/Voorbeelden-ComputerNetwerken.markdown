@@ -1,6 +1,6 @@
 ---
 layout: layout-post
 title:  "Voorbeelden ComputerNetwerken"
-permalink: /VoorbeeldenComputernetwerken/
-tag: CN
+permalink: /Voorbeelden/
+category: CN
 ---

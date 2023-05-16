@@ -1,6 +1,6 @@
 ---
 layout: layout-post
 title:  "Voorbeelden Software Ontwikkeling"
-permalink: /VoorbeeldenSoftwareontwikkeling/
-tag: SO
+permalink: /Voorbeelden/
+category: SO
 ---
