@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Opstelling
-permalink: /contact/
+permalink: /Opstelling/
 ---
 
 ### GitHub Page configuratie
 
-Github bied een service aan genaamd [github actions](https://docs.github.com/en/actions/learn-github-actions). Dit staat toe om arbitraire code te draaien in de cloud. Het kan bevoorbeelt een linter of een static analyser draaien die de code analyseerd en mogelijke probleemen rapporteert. Github heeft een grote bibliotheek aan actions die al voorgeprogrameerd zijn. Een van deze actions is een jekyll page renderen en hosten.
+GitHub biedt een service aan genaamd [github actions](https://docs.github.com/en/actions/learn-github-actions). Dit staat toe om arbitraire code te draaien in de cloud. Het kan bijvoorbeeld een linter of een static analyser draaien die de code analyseerd en mogelijke probleemen rapporteerd. GitHub heeft een grote bibliotheek aan actions die al voorgeprogrammeerd zijn. Één van deze actions is een Jekyll page renderen en hosten.
 
-De stappen die nodig zijn om een github page te creëren zijn als volgt:
+De stappen die nodig zijn om een GitHub page te creëren zijn als volgt:
 
 1.  De naam van de repository moet een bepaald formaat zijn, namelijk "\<organisation>.github.io". ![](\assets\Schermafbeelding 2023-05-12 135913.png)
 
@@ -17,9 +17,9 @@ De stappen die nodig zijn om een github page te creëren zijn als volgt:
 3. Als je op de Visit Site knop klikt, wordt de website geopend.
 
 ### Post & Pages
-Jekyll heeft 2 mechanismes om een webpagina te maken: Pages en Posts. Allebij zijn markdown bestanden, maar een post heeft een datum van publicatie en zit in /repository/_post. Voor de rest zijn posts en pages gelijk. Wij hebben gekozen om het grootste deel van de inhoudelijk themas als post te gebruiken. Met enkele algemene themas, zoals de opstellng, contacten, en de home page tot pagina te maken. 
+Jekyll heeft 2 mechanismes om een webpagina te maken: Pages en Posts. Allebei zijn markdown bestanden, maar een post heeft een datum van publicatie en zit in /repository/_post. Voor de rest zijn posts en pages gelijk. Wij hebben gekozen om het grootste deel van de inhoudelijk thema's als post te gebruiken. Met enkele algemene thema's, zoals de opstelling, contacten en de home page tot pagina te maken. 
 
-Ieder markdown bestand begind met een [Front Matter](https://jekyllrb.com/docs/front-matter/), die de configuratie bepaalt van de markdown.
+Ieder markdown bestand begint met een [Front Matter](https://jekyllrb.com/docs/front-matter/), die de configuratie bepaalt van de markdown.
 
 > \-\-\-
 > 
@@ -27,11 +27,11 @@ Ieder markdown bestand begind met een [Front Matter](https://jekyllrb.com/docs/f
 > 
 > title: Opstelling
 > 
-> permalink: /contact/
+> permalink: /Opstelling/
 > 
 > \-\-\-
 
-Hier een overzicht van enkele variablen en hun betekenis
+Hier een overzicht van enkele variabelen en hun betekenis:
 
 | Variable | Betekenis|
 | -------- | -------- |
@@ -42,5 +42,5 @@ Hier een overzicht van enkele variablen en hun betekenis
 
 ### Samenwerking
 
-We probeerden vanaf dag 1 de taken eerlijk te verdelen, omdat Sander hier goed in was, maakte hij de pages, branches aan. De rest zou deze dan ontwikkelen en hier info indien nodig in invullen. Iedereen kon aan iedereen vragen stellen en geholpen worden.
+We probeerden vanaf dag 1 de taken eerlijk te verdelen en omdat Sander hier goed in was, maakte hij de pages + branches aan. De rest zou deze dan ontwikkelen en hier info indien nodig invullen. Iedereen kon aan elkaar vragen stellen en helpen.
 
