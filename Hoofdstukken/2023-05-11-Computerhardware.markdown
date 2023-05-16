@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Computerhardware"
-date:   2023-05-02 13:57:54 +0200
-categories: jekyll update
+permalink: /Computerhardware/
 ---
 
 Computerhardware verwijst naar de fysieke componenten van een computer die tastbare taken uitvoeren en gegevens verwerken. Hier zijn enkele voorbeelden van computerhardware:

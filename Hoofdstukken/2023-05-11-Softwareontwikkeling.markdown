@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Softwareontwikkeling"
-date:   2023-05-02 13:57:54 +0200
-categories: jekyll update
+permalink: /SoftwareOntwikkeling/
 ---
 
 Softwareontwikkeling is een essentieel onderdeel van de toegepaste informatica. Het omvat het proces van het ontwerpen, programmeren, testen en onderhouden van softwaretoepassingen. Als student in toegepaste informatica is het belangrijk om bekend te raken met de fundamentele concepten en methodologieën van softwareontwikkeling. Hier is een overzicht van enkele belangrijke aspecten:
