@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Computernetwerken"
-date:   2023-05-02 13:57:54 +0200
-categories: jekyll update
+permalink: /Computernetwerken/
 ---
 
 Computernetwerken zijn systemen waarin computers en andere apparaten met elkaar verbonden zijn om gegevens en bronnen te delen. Ze maken communicatie en samenwerking mogelijk tussen verschillende apparaten en gebruikers.
