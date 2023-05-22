@@ -2,6 +2,7 @@
 layout: default
 title:  "Computernetwerken"
 permalink: /Computernetwerken/
+category: CN
 ---
 ### Computernetwerken
 
