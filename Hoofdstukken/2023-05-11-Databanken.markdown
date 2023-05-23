@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Databanken"
-date:   2023-05-02 13:57:54 +0200
-categories: jekyll update
+permalink: /HoofdStukken/Databanken/
 ---
 Een databank is een georganiseerde verzameling van gestructureerde gegevens die op een efficiënte manier kunnen worden opgeslagen, beheerd en opgevraagd. Voorbeelden van databanken zijn:
 

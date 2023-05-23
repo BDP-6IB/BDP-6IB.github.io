@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: home
 title: Opstelling
-permalink: /Opstelling/
+permalink: /Homepages/Opstelling/
 ---
 
 ### GitHub Page configuratie
