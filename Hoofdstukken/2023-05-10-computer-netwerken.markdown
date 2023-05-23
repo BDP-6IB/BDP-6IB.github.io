@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Computernetwerken"
-permalink: /Computernetwerken/
+permalink: /HoofdStukken/Computernetwerken/
 category: CN
 ---
 ### Computernetwerken

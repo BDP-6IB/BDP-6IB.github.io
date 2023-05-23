@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Besturingssystemen"
-permalink: /Besturingssystemen/
+permalink: /HoofdStukken/Besturingssystemen/
 ---
 Een besturingssysteem is een softwarelaag die de interactie tussen gebruikers, applicaties en computerhardware beheert. Het biedt functies voor het beheren van bronnen, het uitvoeren van taken en het bieden van een gebruikersinterface.
 

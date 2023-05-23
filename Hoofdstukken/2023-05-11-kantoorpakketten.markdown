@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Kantoorpakketten"
-permalink: /Kantoorpakkettenn/
+permalink: /HoofdStukken/Kantoorpakkettenn/
 ---
 
 Een kantoorpakket is een softwarepakket dat verschillende productiviteitstools bevat die veel worden gebruikt in kantooromgevingen. Het biedt functionaliteiten zoals tekstverwerking, spreadsheets, presentaties, e-mail en agenda's. Hier zijn enkele voorbeelden van kantoorpakketten:
