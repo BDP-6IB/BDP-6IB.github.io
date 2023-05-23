@@ -3,18 +3,14 @@ layout: default
 title:  "Besturingssystemen"
 permalink: /HoofdStukken/Besturingssystemen/
 ---
-Een besturingssysteem is een softwarelaag die de interactie tussen gebruikers, applicaties en computerhardware beheert. Het biedt functies voor het beheren van bronnen, het uitvoeren van taken en het bieden van een gebruikersinterface.
+Besturingssystemen zijn essentiële softwareprogramma's die de interactie tussen gebruikers, hardware en software beheren. Ze bieden een platform voor het uitvoeren van taken, het beheren van bronnen en het zorgen voor een goede werking van computersystemen. Hier is een korte samenvatting van besturingssystemen:
 
-Microsoft Windows: Windows is een veelgebruikt besturingssysteem voor pc's en laptops. Voorbeelden zijn Windows 10 en Windows 11.
+Functie: Besturingssystemen beheren en coördineren de hardwarebronnen van een computer, zoals de processor, het geheugen, opslagmedia en invoer- en uitvoerapparaten. Ze bieden ook een gebruikersinterface waarmee gebruikers met het systeem kunnen communiceren.
 
-macOS: macOS is het besturingssysteem dat wordt gebruikt op Apple Macintosh-computers. Voorbeelden zijn macOS Big Sur en macOS Monterey.
+Takenbeheer: Besturingssystemen plannen en beheren de uitvoering van taken, waardoor meerdere programma's gelijktijdig kunnen draaien. Ze zorgen voor een eerlijke verdeling van systeembronnen en prioriteren taken op basis van hun urgentie en prioriteit.
 
-Linux: Linux is een open-source besturingssysteem dat beschikbaar is in verschillende distributies, zoals Ubuntu, Fedora en CentOS. Het wordt veel gebruikt in zowel desktop- als serveromgevingen.
+Bestandsbeheer: Besturingssystemen bieden een structuur voor het organiseren, opslaan en ophalen van bestanden op opslagmedia. Ze beheren bestandstoegang, zorgen voor gegevensbeveiliging en bieden hulpmiddelen voor het zoeken en beheren van bestanden.
 
-Android: Android is een besturingssysteem dat wordt gebruikt op mobiele apparaten, zoals smartphones en tablets. Het is ontwikkeld door Google en biedt een breed scala aan applicaties en services.
+Apparaatbeheer: Besturingssystemen communiceren met hardwareapparaten, zoals printers, scanners, toetsenborden en muizen, om hun werking mogelijk te maken. Ze bieden stuurprogramma's en interfaces waarmee apparaten kunnen worden aangesloten en gebruikt.
 
-iOS: iOS is het besturingssysteem dat wordt gebruikt op Apple's iPhone, iPad en iPod Touch. Het biedt een intuïtieve interface en toegang tot de App Store met talloze apps.
-
-Chrome OS: Chrome OS is een lichtgewicht besturingssysteem ontwikkeld door Google, speciaal ontworpen voor Chromebooks. Het is gebaseerd op de Chrome-webbrowser en is gericht op cloudgebaseerd werken.
-
-Deze voorbeelden tonen de diversiteit aan besturingssystemen die beschikbaar zijn voor verschillende apparaten en gebruikersbehoeften. Elk besturingssysteem heeft zijn eigen kenmerken, functies en compatibiliteit met specifieke hardware en software.
+Beveiliging: Besturingssystemen implementeren beveiligingsmechanismen om gegevens en systeembronnen te beschermen tegen ongeoorloofde toegang, virussen, malware en andere bedreigingen. Ze bieden gebruikersauthenticatie, toegangscontrole en versleutelingstechnieken.
