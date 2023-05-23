@@ -96,6 +96,20 @@ Wij zijn een groep leerlingen uit de klas 6 Informaticabeheer uit de school Bene
 </tr>
 </table>
 
+## algemeene info
+
+Binnen onze school werken wij met een levensregel gebaseerd op de spiritualiteit van Benedictus. Deze levensregel is een bron die zich richt op de groei van elk individu in het dagelijkse leven.
+
+De 7 waarden die onze school uitoefent zijn als volgt:
+1. Groei
+2. Gastvrijheid
+3. Flexibiliteit
+4. Luisterbereidheid
+5. Engagement
+6. Orde
+7. Tijd
+
+Op Benedictuspoort Campus Ledeberg hebben we de 3 standaard richtingen: ASO, TSO en BSO. Binnen deze richtingen zijn er veel vertakkingen waarin ieder zijn eigen voorkeur kan kiezen en kan ontdekken wat deze richtingen dan inhouden.
 ## bewerkingsgeschiedenis
 ### 2022 - 2023
 
@@ -103,6 +117,14 @@ Wij zijn een groep leerlingen uit de klas 6 Informaticabeheer uit de school Bene
 | verantwoordelijke Leerkracht | Michel Van Lancker                                      |
 
 
+
+
+### 2023 - 2024
+
+| leerlingen                   | To be announced                                         |
+| verantwoordelijke Leerkracht | To be announced                                         |
+
+## afsluiter
 De bedoeling van deze site is om leeftijdsgenoten te informeren over onze richting. We schijnen dan meer licht op mogelijke jobs en hoe informatica wordt toegepast in de wereld, want deze richting verschilt van school tot school, aangezien er geen "correcte" manier is van programmeren.
 
 Met z'n allen hopen we u met deze site veel bij te leren over onze richting en hoe informatica wordt toegepast wereldwijd in het dagelijkse leven, zodat we u mogelijks kunnen overtuigen om deze richting in te stappen!
