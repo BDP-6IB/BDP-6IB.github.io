@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: home
 title: Over
-permalink: /About/
+permalink: /Homepages/About/
 ---
 
 Wij zijn een groep leerlingen uit de klas 6 Informaticabeheer uit de school Benedictuspoort Campus Ledeberg. Onze klas bestaat uit 8 leerlingen, namelijk: 

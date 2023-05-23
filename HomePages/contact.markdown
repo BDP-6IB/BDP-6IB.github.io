@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: home
 title: Contact
-permalink: /contact/
+permalink: /Homepages/contact/
 ---
 ## Contact team
 <table>
