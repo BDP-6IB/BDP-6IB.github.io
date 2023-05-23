@@ -1,0 +1,25 @@
+---
+
+---
+
+<div class="navbar">
+  {% for item in site.pages %}
+    {% assign categories = item.url | relative_url | url_decode | split: "/" %}
+    {% if categories[1] == "Homepages" %}
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    {% endif %}
+  {% endfor %}
+  <div class="dropdown">
+    <button class="dropbtn">
+      HoofdStukken
+    </button>
+    <div class="dropdown-content">
+      {% for item in site.pages %}
+        {% assign categories = item.url | relative_url | url_decode | split: "/" %}
+        {% if categories[1] == "HoofdStukken" %}
+          <a href="{{ item.url }}">{{ item.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
