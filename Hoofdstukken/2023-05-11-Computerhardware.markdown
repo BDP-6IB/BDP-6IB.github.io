@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Computerhardware"
-permalink: /Computerhardware/
+permalink: /HoofdStukken/Computerhardware/
 ---
 
 Computerhardware verwijst naar de fysieke componenten van een computer die tastbare taken uitvoeren en gegevens verwerken. Hier zijn enkele voorbeelden van computerhardware:

@@ -1,7 +1,7 @@
 ---
 layout: Navigation
 title: Informatica Beheer
-permalink: /InformaticaBeheer/
+permalink: /Homepages/InformaticaBeheer/
 ---
 
 Informaticabeheer is een richting waarin je een uitgebreide kennis krijgt over software & hardware.

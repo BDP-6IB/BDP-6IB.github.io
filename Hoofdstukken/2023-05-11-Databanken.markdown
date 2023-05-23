@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Databanken"
-permalink: /Databanken/
+permalink: /HoofdStukken/Databanken/
 ---
 Een databank is een georganiseerde verzameling van gestructureerde gegevens die op een efficiënte manier kunnen worden opgeslagen, beheerd en opgevraagd. Voorbeelden van databanken zijn:
 
