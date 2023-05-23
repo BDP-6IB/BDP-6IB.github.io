@@ -6,17 +6,27 @@
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
-    <nav>
-
+    <div class="navbar">
+      {% for item in site.pages %}
+        {% assign categories = item.url | relative_url | url_decode | split: "/" %}
+        {% if categories[1] == "Homepages" %}
+          <a href="{{ item.url }}">{{ item.title }}</a>
+        {% endif %}
+      {% endfor %}
       <div class="dropdown">
-        <button>Onderwerp</button>
-        <div class="dropdown-options">
-          {% for tag in site.categories %}
-            <a href="tag">{{ tag }}</a>
+        <button class="dropbtn"> HoofdStukken </button>
+        <div class="dropdown-content">
+          {% for item in site.pages %}
+            {% assign categories = item.url | relative_url | url_decode | split: "/" %}
+            {% if categories[1] == "HoofdStukken" %}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
           {% endfor %}
         </div>
       </div>
+    </div>
 
-    </nav>
+    {{ content }}
   </body>
 </html>
+
