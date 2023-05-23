@@ -5,3 +5,20 @@ permalink: /Windows/
 tag: BS
 ---
 
+![Windows logo](assets/windows.png)
+
+Windows heeft verschillende unieke kenmerken die het onderscheiden van andere besturingssystemen. Hier zijn enkele van die kenmerken:
+
+Grafische gebruikersinterface (GUI): Windows staat bekend om zijn gebruiksvriendelijke grafische interface, waardoor gebruikers taken kunnen uitvoeren via pictogrammen, vensters en menu's. Dit heeft bijgedragen aan de populariteit van Windows bij een breed scala aan gebruikers, inclusief diegenen met beperkte technische kennis.
+
+DirectX: DirectX is een set van applicatieprogramma-interfaces (API's) die specifiek zijn ontwikkeld voor het beheren en uitvoeren van multimedia en grafische taken op Windows. Het heeft een grote rol gespeeld in het bevorderen van pc-gaming en multimedia-ervaringen op Windows-computers.
+
+Compatibiliteit: Windows heeft een uitgebreide hardware- en softwarecompatibiliteit, waardoor gebruikers een breed scala aan apparaten en applicaties kunnen gebruiken. Dit omvat ondersteuning voor populaire softwareprogramma's, zoals Microsoft Office, en het vermogen om te werken met verschillende hardwareconfiguraties.
+
+Ondersteuning voor applicaties: Windows biedt een breed scala aan applicaties en software die specifiek zijn ontwikkeld voor het platform. Dit omvat productiviteitstools, creatieve software, games en meer. Bovendien kunnen gebruikers ook toegang krijgen tot de Microsoft Store, waar ze aanvullende apps kunnen vinden en downloaden.
+
+Microsoft-integratie: Windows is nauw geïntegreerd met andere Microsoft-producten en -diensten, zoals Microsoft Office, OneDrive en Azure-cloudservices. Dit zorgt voor naadloze samenwerking en synchronisatie tussen verschillende apparaten en platforms.
+
+Ondersteuning en updates: Microsoft biedt regelmatig updates, patches en beveiligingsupdates voor Windows. Dit helpt om de stabiliteit, prestaties en beveiliging van het besturingssysteem te verbeteren en eventuele kwetsbaarheden aan te pakken.
+
+Het zijn deze unieke kenmerken van Windows die hebben bijgedragen aan de brede acceptatie en populariteit ervan als besturingssysteem voor zowel thuisgebruikers als zakelijke omgevingen.
