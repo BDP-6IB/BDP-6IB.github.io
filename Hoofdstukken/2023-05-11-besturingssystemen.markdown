@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "Besturingssystemen"
-date:   2023-05-02 13:57:54 +0200
-categories: jekyll update
+permalink: /Besturingssystemen/
 ---
-Een besturingssysteem is een softwarelaag die de interactie tussen gebruikers, applicaties en computerhardware beheert. Het biedt functies voor het beheren van bronnen, het uitvoeren van taken en het bieden van een gebruikersinterface. Hier zijn enkele voorbeelden van de bekendste besturingssystemen:
+Een besturingssysteem is een softwarelaag die de interactie tussen gebruikers, applicaties en computerhardware beheert. Het biedt functies voor het beheren van bronnen, het uitvoeren van taken en het bieden van een gebruikersinterface.
 
 Microsoft Windows: Windows is een veelgebruikt besturingssysteem voor pc's en laptops. Voorbeelden zijn Windows 10 en Windows 11.
 

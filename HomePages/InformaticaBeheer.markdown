@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Navigation
 title: Informatica Beheer
 permalink: /InformaticaBeheer/
 ---
