@@ -6,6 +6,7 @@ category: CN
 ---
 ### Computernetwerken
 
+ExamenTest
 
 ## Computernetwerken: Een introductie
 Een computernetwerk is een verzameling van computers en andere apparaten die met elkaar verbonden zijn om informatie uit te wisselen. In dit artikel zullen we ingaan op de verschillende aspecten van computernetwerken en waarom ze zo belangrijk zijn in onze moderne samenleving.
